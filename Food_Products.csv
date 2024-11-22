@@ -1,0 +1,501 @@
+Product_ID,Product_Name,Category,Price,Stock_Quantity,Supplier,Expiration_Date,Discount_Percentage,Is_Organic,Rating
+P0001,Pizza,Bakery,86.45,500,Supplier_10,31-03-2028,37,Yes,1.8
+P0002,Tomato,Fruits,49.68,55,Supplier_14,01-04-2028,50,No,4.9
+P0003,Bread,Vegetables,91.17,240,Supplier_6,02-04-2028,19,No,2.6
+P0004,Shrimp,Dairy,64.2,160,Supplier_4,03-04-2028,12,Yes,4.9
+P0005,Cheese,Snacks,41.49,482,Supplier_12,04-04-2028,26,No,4.7
+P0006,Frozen Peas,Meat,23.69,350,Supplier_18,05-04-2028,18,Yes,4.1
+P0007,Banana,Frozen Foods,72.6,51,Supplier_16,06-04-2028,45,Yes,4.5
+P0008,Chicken,Bakery,19.82,459,Supplier_10,07-04-2028,42,No,4.3
+P0009,Ice Cream,Dairy,5.07,492,Supplier_12,08-04-2028,27,Yes,2.6
+P0010,Carrot,Snacks,85.18,152,Supplier_1,09-04-2028,50,No,3.4
+P0011,Shrimp,Vegetables,49.88,153,Supplier_14,10-04-2028,33,No,2.6
+P0012,Muffin,Dairy,34.38,220,Supplier_20,11-04-2028,27,No,3.1
+P0013,Muffin,Bakery,53.08,188,Supplier_3,12-04-2028,47,Yes,3.2
+P0014,Pork,Snacks,98.25,474,Supplier_1,13-04-2028,5,Yes,2.5
+P0015,Cookies,Vegetables,13.07,224,Supplier_19,14-04-2028,22,Yes,3.9
+P0016,Juice,Meat,40.13,299,Supplier_17,15-04-2028,47,No,1.3
+P0017,Beef,Snacks,25.22,262,Supplier_14,16-04-2028,1,No,1.2
+P0018,Salmon,Seafood,92.25,419,Supplier_11,17-04-2028,6,Yes,3.3
+P0019,Pizza,Snacks,11.53,422,Supplier_1,18-04-2028,21,Yes,3.6
+P0020,Carrot,Beverages,56.92,174,Supplier_6,19-04-2028,23,No,3.5
+P0021,Milk,Snacks,23.44,114,Supplier_6,20-04-2028,12,No,1.1
+P0022,Pork,Vegetables,37.53,77,Supplier_1,21-04-2028,10,No,4.3
+P0023,Pizza,Bakery,83.48,218,Supplier_14,22-04-2028,23,Yes,4.7
+P0024,Tuna,Snacks,15.19,397,Supplier_16,23-04-2028,25,Yes,5
+P0025,Orange,Meat,3.05,250,Supplier_1,24-04-2028,48,Yes,1.4
+P0026,Juice,Meat,94.95,340,Supplier_10,25-04-2028,0,Yes,2.3
+P0027,Bread,Meat,24.4,291,Supplier_7,31-03-2028,14,No,3.1
+P0028,Cheese,Fruits,56.16,414,Supplier_16,01-04-2028,22,No,3.4
+P0029,Ice Cream,Seafood,2.01,231,Supplier_3,02-04-2028,17,No,2.9
+P0030,Chicken,Beverages,43.85,488,Supplier_13,03-04-2028,34,Yes,2.9
+P0031,Frozen Peas,Seafood,99.82,343,Supplier_20,04-04-2028,38,No,5
+P0032,Chips,Bakery,15.9,342,Supplier_12,05-04-2028,4,No,4.5
+P0033,Tuna,Meat,48.27,433,Supplier_14,06-04-2028,39,No,4.1
+P0034,Tomato,Snacks,79.4,15,Supplier_14,07-04-2028,0,No,3
+P0035,Coffee,Fruits,84.69,223,Supplier_5,08-04-2028,23,Yes,2.9
+P0036,Juice,Seafood,9.29,405,Supplier_2,09-04-2028,17,No,2.2
+P0037,Cookies,Fruits,29.69,470,Supplier_6,10-04-2028,18,Yes,3.6
+P0038,Carrot,Frozen Foods,73.47,19,Supplier_5,11-04-2028,45,No,4.8
+P0039,Apple,Beverages,36.34,442,Supplier_9,12-04-2028,23,No,2.8
+P0040,Cheese,Frozen Foods,68.45,365,Supplier_8,13-04-2028,15,No,1.8
+P0041,Milk,Vegetables,41.23,139,Supplier_11,14-04-2028,0,No,3
+P0042,Tuna,Vegetables,67.33,430,Supplier_14,15-04-2028,30,No,3.3
+P0043,Apple,Seafood,82.9,410,Supplier_9,16-04-2028,30,Yes,3.7
+P0044,Cake,Fruits,46.21,140,Supplier_15,17-04-2028,36,Yes,3.1
+P0045,Shrimp,Seafood,34.5,399,Supplier_5,18-04-2028,26,No,4.7
+P0046,Coffee,Bakery,59.02,204,Supplier_2,19-04-2028,27,Yes,4.5
+P0047,Frozen Peas,Seafood,30.68,123,Supplier_13,20-04-2028,38,No,5
+P0048,Carrot,Bakery,42.22,263,Supplier_10,21-04-2028,24,Yes,1.1
+P0049,Cake,Fruits,77.9,175,Supplier_4,22-04-2028,2,Yes,1.6
+P0050,Ice Cream,Bakery,22.99,44,Supplier_19,23-04-2028,14,No,3.3
+P0051,Tea,Frozen Foods,93.44,416,Supplier_5,24-04-2028,41,Yes,2.8
+P0052,Potato,Snacks,86.85,499,Supplier_11,25-04-2028,36,No,4.4
+P0053,Cookies,Frozen Foods,73.97,102,Supplier_1,31-03-2028,26,No,1.4
+P0054,Bread,Vegetables,81.6,262,Supplier_18,01-04-2028,31,No,1.2
+P0055,Coffee,Frozen Foods,47.62,238,Supplier_5,02-04-2028,49,No,3.1
+P0056,Pizza,Dairy,90.68,114,Supplier_7,03-04-2028,27,No,2.6
+P0057,Coffee,Snacks,40.2,446,Supplier_3,04-04-2028,20,Yes,4.5
+P0058,Shrimp,Beverages,53.03,111,Supplier_1,05-04-2028,21,No,2.1
+P0059,Frozen Peas,Bakery,65.38,48,Supplier_2,06-04-2028,27,No,4.4
+P0060,Banana,Seafood,48.51,222,Supplier_19,07-04-2028,24,No,1.4
+P0061,Tomato,Snacks,84.35,411,Supplier_12,08-04-2028,37,Yes,4.5
+P0062,Frozen Peas,Fruits,1.44,171,Supplier_18,09-04-2028,5,No,1.8
+P0063,Cake,Bakery,11.97,135,Supplier_6,10-04-2028,12,Yes,2.8
+P0064,Pork,Vegetables,80.12,54,Supplier_2,11-04-2028,21,No,3.3
+P0065,Frozen Peas,Dairy,89.6,161,Supplier_18,12-04-2028,18,No,1.8
+P0066,Chips,Meat,68.63,317,Supplier_16,13-04-2028,13,No,3.7
+P0067,Chips,Fruits,76.28,493,Supplier_16,14-04-2028,21,Yes,3.3
+P0068,Pizza,Meat,19.08,186,Supplier_7,15-04-2028,49,Yes,3.6
+P0069,Muffin,Frozen Foods,7.65,446,Supplier_9,16-04-2028,31,No,3.8
+P0070,Pork,Meat,31.92,253,Supplier_7,17-04-2028,45,Yes,1.8
+P0071,Yogurt,Vegetables,84.56,317,Supplier_18,18-04-2028,34,Yes,2.5
+P0072,Muffin,Fruits,59.04,422,Supplier_7,19-04-2028,29,Yes,3.6
+P0073,Yogurt,Bakery,79.82,328,Supplier_19,20-04-2028,45,No,2.4
+P0074,Cake,Seafood,94.84,15,Supplier_9,21-04-2028,50,No,1.7
+P0075,Popcorn,Beverages,5.06,54,Supplier_11,22-04-2028,14,Yes,1.5
+P0076,Pork,Meat,43.22,28,Supplier_19,23-04-2028,23,No,3.8
+P0077,Bread,Bakery,95.55,228,Supplier_9,24-04-2028,4,Yes,4.7
+P0078,Ice Cream,Bakery,84.68,62,Supplier_12,25-04-2028,27,No,1.3
+P0079,Frozen Peas,Seafood,94.4,26,Supplier_13,31-03-2028,31,No,1.8
+P0080,Chips,Beverages,66.32,417,Supplier_16,01-04-2028,43,No,2.2
+P0081,Tomato,Meat,70.05,494,Supplier_16,02-04-2028,33,Yes,4.6
+P0082,Bread,Vegetables,1.8,136,Supplier_2,03-04-2028,32,Yes,3
+P0083,Orange,Frozen Foods,82.23,304,Supplier_4,04-04-2028,26,Yes,1.7
+P0084,Potato,Snacks,36.04,110,Supplier_12,05-04-2028,24,No,3.2
+P0085,Banana,Beverages,91.62,404,Supplier_9,06-04-2028,41,No,4.6
+P0086,Banana,Frozen Foods,88.04,295,Supplier_20,07-04-2028,39,Yes,3.7
+P0087,Chips,Snacks,55.72,477,Supplier_16,08-04-2028,43,Yes,3.9
+P0088,Pork,Dairy,58.42,124,Supplier_18,09-04-2028,15,No,2.8
+P0089,Tuna,Dairy,5.46,409,Supplier_16,10-04-2028,18,Yes,4.1
+P0090,Pork,Snacks,65.55,217,Supplier_20,11-04-2028,33,Yes,1.4
+P0091,Banana,Snacks,81.28,242,Supplier_8,12-04-2028,4,Yes,1.9
+P0092,Popcorn,Seafood,29.69,373,Supplier_16,13-04-2028,36,No,1.1
+P0093,Cake,Beverages,30.79,242,Supplier_7,14-04-2028,44,No,4.5
+P0094,Milk,Frozen Foods,51.88,57,Supplier_20,15-04-2028,7,Yes,2.3
+P0095,Ice Cream,Frozen Foods,38.24,177,Supplier_10,16-04-2028,45,Yes,2.5
+P0096,Yogurt,Beverages,68.66,87,Supplier_3,17-04-2028,9,Yes,4.6
+P0097,Frozen Peas,Beverages,84.6,150,Supplier_10,18-04-2028,22,No,4.7
+P0098,Tomato,Snacks,2.56,394,Supplier_2,19-04-2028,41,Yes,2.4
+P0099,Potato,Vegetables,13.93,177,Supplier_11,20-04-2028,40,No,1.4
+P0100,Coffee,Snacks,3.11,349,Supplier_17,21-04-2028,33,No,3.2
+P0101,Frozen Peas,Frozen Foods,62.21,85,Supplier_14,22-04-2028,47,No,2
+P0102,Chips,Dairy,66.44,126,Supplier_14,23-04-2028,6,Yes,1.9
+P0103,Ice Cream,Snacks,31.62,284,Supplier_12,24-04-2028,19,Yes,2.8
+P0104,Cheese,Meat,52.56,280,Supplier_1,25-04-2028,31,No,2.1
+P0105,Pork,Dairy,47.39,62,Supplier_5,31-03-2028,34,No,1.6
+P0106,Juice,Meat,96.85,390,Supplier_11,01-04-2028,3,Yes,1.9
+P0107,Coffee,Snacks,26.12,265,Supplier_18,02-04-2028,41,Yes,4.6
+P0108,Muffin,Meat,48.09,282,Supplier_16,03-04-2028,22,No,3.2
+P0109,Tea,Fruits,26.79,366,Supplier_5,04-04-2028,17,No,3.5
+P0110,Cheese,Bakery,61.24,42,Supplier_9,05-04-2028,48,No,3.7
+P0111,Ice Cream,Frozen Foods,19.04,102,Supplier_9,06-04-2028,22,No,1
+P0112,Bread,Fruits,66.2,345,Supplier_3,07-04-2028,44,No,4.4
+P0113,Bread,Dairy,2.54,59,Supplier_15,08-04-2028,44,Yes,3.1
+P0114,Carrot,Frozen Foods,19.13,149,Supplier_6,09-04-2028,15,Yes,3.7
+P0115,Salmon,Vegetables,33.02,298,Supplier_10,10-04-2028,41,Yes,4.9
+P0116,Salmon,Fruits,62.76,32,Supplier_9,11-04-2028,2,No,1.3
+P0117,Frozen Peas,Snacks,80.29,115,Supplier_5,12-04-2028,42,No,4.8
+P0118,Frozen Peas,Beverages,44.58,378,Supplier_16,13-04-2028,39,Yes,1.3
+P0119,Muffin,Fruits,19.7,255,Supplier_6,14-04-2028,18,Yes,1.4
+P0120,Tuna,Seafood,60.4,36,Supplier_6,15-04-2028,44,Yes,3.3
+P0121,Tea,Beverages,11.54,72,Supplier_9,16-04-2028,25,Yes,1.8
+P0122,Popcorn,Beverages,50.03,156,Supplier_16,17-04-2028,19,No,4
+P0123,Muffin,Fruits,9.5,394,Supplier_4,18-04-2028,11,Yes,3.8
+P0124,Salmon,Frozen Foods,4.07,410,Supplier_12,19-04-2028,31,Yes,4.9
+P0125,Beef,Seafood,10.09,322,Supplier_13,20-04-2028,46,Yes,5
+P0126,Milk,Snacks,11.38,322,Supplier_19,21-04-2028,48,Yes,4.4
+P0127,Potato,Beverages,17.9,165,Supplier_16,22-04-2028,7,Yes,4.3
+P0128,Ice Cream,Fruits,33.07,259,Supplier_16,23-04-2028,41,Yes,3.3
+P0129,Frozen Peas,Fruits,86.49,206,Supplier_7,24-04-2028,28,No,2.2
+P0130,Pizza,Dairy,30.97,158,Supplier_12,25-04-2028,25,Yes,4
+P0131,Orange,Vegetables,21.08,159,Supplier_8,31-03-2028,49,Yes,1.6
+P0132,Chips,Dairy,39.54,60,Supplier_16,01-04-2028,37,No,2.5
+P0133,Salmon,Dairy,98.73,37,Supplier_17,02-04-2028,0,No,4.7
+P0134,Carrot,Beverages,35.1,247,Supplier_14,03-04-2028,16,Yes,2.1
+P0135,Cheese,Beverages,39.33,278,Supplier_9,04-04-2028,13,No,1.3
+P0136,Pizza,Fruits,30.15,89,Supplier_17,05-04-2028,28,No,3.6
+P0137,Cookies,Seafood,37.56,436,Supplier_7,06-04-2028,12,No,3.2
+P0138,Chips,Dairy,98.53,175,Supplier_15,07-04-2028,27,Yes,3.6
+P0139,Coffee,Beverages,40.51,111,Supplier_2,08-04-2028,40,Yes,4.4
+P0140,Orange,Vegetables,35.11,153,Supplier_19,09-04-2028,16,No,1.8
+P0141,Apple,Dairy,12.72,432,Supplier_6,10-04-2028,6,No,3.9
+P0142,Cheese,Dairy,54.86,41,Supplier_8,11-04-2028,40,Yes,4.8
+P0143,Pizza,Snacks,36.99,203,Supplier_6,12-04-2028,49,No,1
+P0144,Salmon,Meat,50.23,333,Supplier_16,13-04-2028,6,Yes,2.9
+P0145,Chips,Dairy,60.41,124,Supplier_6,14-04-2028,42,Yes,4.7
+P0146,Carrot,Dairy,32.17,406,Supplier_15,15-04-2028,20,No,3.3
+P0147,Cake,Vegetables,31.93,122,Supplier_2,16-04-2028,48,Yes,3.6
+P0148,Pork,Beverages,4.85,71,Supplier_10,17-04-2028,0,No,4.4
+P0149,Chips,Meat,28.31,127,Supplier_9,18-04-2028,11,Yes,3.3
+P0150,Cookies,Bakery,98.47,432,Supplier_13,19-04-2028,24,No,4.8
+P0151,Tea,Vegetables,98.65,294,Supplier_3,20-04-2028,35,No,1.2
+P0152,Carrot,Dairy,53.55,55,Supplier_14,21-04-2028,36,No,4.9
+P0153,Muffin,Frozen Foods,51.56,142,Supplier_6,22-04-2028,50,No,1.4
+P0154,Banana,Fruits,1.53,29,Supplier_6,23-04-2028,34,No,2.7
+P0155,Bread,Frozen Foods,33.5,280,Supplier_11,24-04-2028,12,No,2
+P0156,Bread,Dairy,99.47,221,Supplier_6,25-04-2028,26,Yes,1
+P0157,Ice Cream,Snacks,68.18,61,Supplier_2,31-03-2028,17,Yes,2.9
+P0158,Coffee,Dairy,25.04,216,Supplier_12,01-04-2028,32,Yes,4.3
+P0159,Frozen Peas,Beverages,70.74,189,Supplier_11,02-04-2028,18,Yes,2.8
+P0160,Apple,Frozen Foods,86.74,264,Supplier_10,03-04-2028,46,No,4.5
+P0161,Salmon,Fruits,89.49,390,Supplier_9,04-04-2028,39,No,1.6
+P0162,Orange,Meat,72.02,193,Supplier_10,05-04-2028,34,Yes,3.6
+P0163,Popcorn,Beverages,97.64,255,Supplier_16,06-04-2028,16,Yes,1.4
+P0164,Cookies,Beverages,87.41,92,Supplier_9,07-04-2028,37,Yes,3.6
+P0165,Banana,Frozen Foods,66.31,384,Supplier_13,08-04-2028,29,Yes,2.7
+P0166,Ice Cream,Vegetables,48.61,303,Supplier_10,09-04-2028,9,No,4.9
+P0167,Frozen Peas,Beverages,3.67,44,Supplier_5,10-04-2028,45,No,3.5
+P0168,Coffee,Meat,68.81,267,Supplier_17,11-04-2028,34,Yes,4.7
+P0169,Juice,Meat,71.62,348,Supplier_14,12-04-2028,50,No,1
+P0170,Banana,Beverages,89.2,448,Supplier_16,13-04-2028,48,Yes,4.6
+P0171,Chips,Seafood,40.92,242,Supplier_9,14-04-2028,38,Yes,3.7
+P0172,Beef,Vegetables,59.99,100,Supplier_15,15-04-2028,43,Yes,1.1
+P0173,Apple,Vegetables,75.05,269,Supplier_11,16-04-2028,18,No,3.6
+P0174,Potato,Fruits,78.29,18,Supplier_14,17-04-2028,39,No,3.4
+P0175,Cookies,Beverages,3.09,142,Supplier_16,18-04-2028,12,Yes,4.9
+P0176,Popcorn,Vegetables,47.7,448,Supplier_7,19-04-2028,3,Yes,1.6
+P0177,Beef,Beverages,26.53,454,Supplier_13,20-04-2028,49,Yes,3.2
+P0178,Cake,Frozen Foods,85.02,173,Supplier_20,21-04-2028,30,Yes,3.7
+P0179,Chicken,Snacks,29.65,250,Supplier_13,22-04-2028,48,Yes,3.7
+P0180,Juice,Dairy,77.7,247,Supplier_9,23-04-2028,29,No,3.6
+P0181,Ice Cream,Dairy,24.2,239,Supplier_8,24-04-2028,46,Yes,3.9
+P0182,Tomato,Bakery,58.36,124,Supplier_18,25-04-2028,8,Yes,3.6
+P0183,Carrot,Fruits,25.81,386,Supplier_11,31-03-2028,43,Yes,4.5
+P0184,Chicken,Seafood,74.08,370,Supplier_20,01-04-2028,50,No,3.5
+P0185,Orange,Seafood,54.15,432,Supplier_4,02-04-2028,35,Yes,4
+P0186,Apple,Dairy,89.45,231,Supplier_18,03-04-2028,10,No,1.5
+P0187,Pork,Meat,14.2,390,Supplier_16,04-04-2028,42,No,4.2
+P0188,Juice,Bakery,2.52,228,Supplier_15,05-04-2028,24,Yes,1.3
+P0189,Apple,Beverages,18.41,448,Supplier_13,06-04-2028,26,Yes,1.8
+P0190,Potato,Meat,84.81,263,Supplier_19,07-04-2028,46,Yes,4.6
+P0191,Muffin,Snacks,96.59,83,Supplier_2,08-04-2028,31,No,1.6
+P0192,Banana,Frozen Foods,42.24,69,Supplier_16,09-04-2028,50,Yes,4
+P0193,Salmon,Meat,8.66,362,Supplier_20,10-04-2028,37,Yes,4.3
+P0194,Banana,Beverages,65.53,317,Supplier_14,11-04-2028,38,No,3.6
+P0195,Juice,Seafood,81.93,481,Supplier_5,12-04-2028,22,Yes,3.1
+P0196,Pizza,Meat,62.95,280,Supplier_10,13-04-2028,34,Yes,3.8
+P0197,Chicken,Vegetables,3.27,287,Supplier_16,14-04-2028,14,Yes,1.5
+P0198,Bread,Fruits,35.48,86,Supplier_18,15-04-2028,37,Yes,2.1
+P0199,Coffee,Bakery,96.41,380,Supplier_19,16-04-2028,20,No,3.9
+P0200,Beef,Frozen Foods,4.06,170,Supplier_18,17-04-2028,31,No,4
+P0201,Chicken,Bakery,21.58,102,Supplier_1,18-04-2028,7,Yes,1.6
+P0202,Coffee,Fruits,47.04,420,Supplier_1,19-04-2028,43,No,2.4
+P0203,Orange,Dairy,30.68,182,Supplier_1,20-04-2028,10,Yes,4.9
+P0204,Salmon,Seafood,16.53,186,Supplier_18,21-04-2028,29,Yes,1.4
+P0205,Frozen Peas,Snacks,67.09,238,Supplier_3,22-04-2028,25,Yes,1.2
+P0206,Apple,Bakery,74.48,28,Supplier_12,23-04-2028,34,No,3.9
+P0207,Banana,Meat,55.08,385,Supplier_15,24-04-2028,14,No,2.3
+P0208,Orange,Snacks,75.49,201,Supplier_18,25-04-2028,45,Yes,2.5
+P0209,Pork,Bakery,13.58,281,Supplier_7,31-03-2028,30,No,3.8
+P0210,Tomato,Meat,46.59,233,Supplier_1,01-04-2028,8,No,3
+P0211,Chicken,Fruits,2.08,108,Supplier_7,02-04-2028,32,Yes,2.7
+P0212,Tea,Frozen Foods,84.22,83,Supplier_1,03-04-2028,36,Yes,4.5
+P0213,Bread,Seafood,90.54,205,Supplier_2,04-04-2028,12,Yes,2
+P0214,Potato,Dairy,61.7,106,Supplier_4,05-04-2028,8,No,4.6
+P0215,Cheese,Dairy,23.96,160,Supplier_17,06-04-2028,1,Yes,1.4
+P0216,Shrimp,Dairy,3.1,151,Supplier_18,07-04-2028,33,No,1.5
+P0217,Cookies,Seafood,12.35,278,Supplier_8,08-04-2028,6,Yes,3
+P0218,Tomato,Seafood,84.47,37,Supplier_17,09-04-2028,37,No,1
+P0219,Cookies,Frozen Foods,81.44,74,Supplier_6,10-04-2028,35,No,2
+P0220,Juice,Meat,2.03,213,Supplier_2,11-04-2028,18,Yes,2.9
+P0221,Juice,Snacks,71.37,156,Supplier_16,12-04-2028,18,Yes,2.2
+P0222,Shrimp,Fruits,94.06,369,Supplier_17,13-04-2028,48,Yes,3.2
+P0223,Banana,Snacks,58.44,461,Supplier_7,14-04-2028,20,Yes,4
+P0224,Tea,Frozen Foods,65.26,446,Supplier_7,15-04-2028,50,No,3.3
+P0225,Apple,Frozen Foods,91.25,240,Supplier_18,16-04-2028,26,No,3
+P0226,Popcorn,Snacks,59.51,191,Supplier_6,17-04-2028,50,No,2.2
+P0227,Tomato,Fruits,81.31,455,Supplier_14,18-04-2028,5,No,2.3
+P0228,Cheese,Seafood,36.42,145,Supplier_8,19-04-2028,26,No,2.6
+P0229,Pizza,Snacks,16.84,375,Supplier_20,20-04-2028,33,Yes,3.3
+P0230,Muffin,Fruits,66.02,178,Supplier_13,21-04-2028,48,Yes,3.8
+P0231,Yogurt,Dairy,76.3,306,Supplier_4,22-04-2028,24,No,4.9
+P0232,Muffin,Dairy,86.78,111,Supplier_14,23-04-2028,29,Yes,3.7
+P0233,Cheese,Frozen Foods,88.88,132,Supplier_17,24-04-2028,7,No,3.4
+P0234,Pork,Dairy,32.49,346,Supplier_7,25-04-2028,44,Yes,4.1
+P0235,Cookies,Bakery,63.64,375,Supplier_11,31-03-2028,4,No,3.7
+P0236,Cheese,Dairy,61.12,314,Supplier_1,01-04-2028,23,No,2.2
+P0237,Beef,Frozen Foods,30.61,85,Supplier_9,02-04-2028,48,No,3.8
+P0238,Yogurt,Bakery,4.63,252,Supplier_5,03-04-2028,45,Yes,2.6
+P0239,Bread,Frozen Foods,48.09,475,Supplier_20,04-04-2028,15,Yes,4.8
+P0240,Bread,Seafood,21.81,456,Supplier_15,05-04-2028,13,Yes,2.8
+P0241,Tea,Bakery,20.26,47,Supplier_16,06-04-2028,43,No,2.5
+P0242,Apple,Seafood,33.22,238,Supplier_19,07-04-2028,32,No,4
+P0243,Apple,Seafood,46.88,44,Supplier_10,08-04-2028,1,Yes,2.3
+P0244,Milk,Dairy,91.24,299,Supplier_15,09-04-2028,34,Yes,2.4
+P0245,Tuna,Beverages,7.27,214,Supplier_5,10-04-2028,7,Yes,4.6
+P0246,Cake,Meat,10.22,427,Supplier_11,11-04-2028,42,Yes,3.2
+P0247,Apple,Meat,69.52,119,Supplier_19,12-04-2028,44,No,2.7
+P0248,Banana,Frozen Foods,48.52,345,Supplier_16,13-04-2028,42,Yes,2.2
+P0249,Apple,Vegetables,87.57,306,Supplier_13,14-04-2028,35,No,2.7
+P0250,Coffee,Frozen Foods,92.05,159,Supplier_19,15-04-2028,13,Yes,5
+P0251,Cookies,Fruits,27.55,306,Supplier_3,16-04-2028,19,Yes,4.5
+P0252,Cookies,Seafood,24.19,332,Supplier_7,17-04-2028,23,No,1.6
+P0253,Tomato,Dairy,47.72,113,Supplier_2,18-04-2028,49,No,4.6
+P0254,Muffin,Frozen Foods,9.15,136,Supplier_9,19-04-2028,10,No,1.6
+P0255,Pizza,Bakery,60.02,350,Supplier_18,20-04-2028,13,No,1.7
+P0256,Tuna,Fruits,88.35,314,Supplier_11,21-04-2028,15,No,4.6
+P0257,Salmon,Dairy,71.32,297,Supplier_19,22-04-2028,46,No,4
+P0258,Chips,Dairy,24.92,27,Supplier_5,23-04-2028,38,Yes,2.7
+P0259,Cake,Bakery,10.74,45,Supplier_3,24-04-2028,50,No,2.1
+P0260,Juice,Frozen Foods,6.91,406,Supplier_11,25-04-2028,0,Yes,4.6
+P0261,Pizza,Bakery,62.41,431,Supplier_12,31-03-2028,46,Yes,5
+P0262,Salmon,Fruits,7.71,57,Supplier_5,01-04-2028,9,No,1.8
+P0263,Beef,Fruits,70.35,247,Supplier_20,02-04-2028,50,Yes,1.8
+P0264,Banana,Frozen Foods,62.38,396,Supplier_5,03-04-2028,3,No,1.7
+P0265,Salmon,Fruits,45.6,205,Supplier_19,04-04-2028,25,Yes,4.8
+P0266,Shrimp,Meat,24.5,163,Supplier_11,05-04-2028,13,Yes,2.4
+P0267,Pork,Beverages,73.6,255,Supplier_13,06-04-2028,3,Yes,2.8
+P0268,Ice Cream,Bakery,99.35,120,Supplier_5,07-04-2028,23,Yes,2.7
+P0269,Apple,Dairy,88.05,89,Supplier_18,08-04-2028,26,Yes,4.3
+P0270,Tea,Snacks,16.86,74,Supplier_3,09-04-2028,16,Yes,5
+P0271,Tomato,Bakery,69.48,442,Supplier_15,10-04-2028,49,Yes,4.2
+P0272,Apple,Frozen Foods,79.29,242,Supplier_4,11-04-2028,7,Yes,2.6
+P0273,Pork,Fruits,78.68,301,Supplier_4,12-04-2028,6,No,2.7
+P0274,Pork,Beverages,47.55,438,Supplier_6,13-04-2028,4,Yes,3.2
+P0275,Pork,Bakery,6,352,Supplier_16,14-04-2028,31,Yes,2.9
+P0276,Popcorn,Seafood,20.21,117,Supplier_1,15-04-2028,2,Yes,1.6
+P0277,Juice,Beverages,63.72,397,Supplier_15,16-04-2028,26,No,2.4
+P0278,Yogurt,Dairy,27.41,266,Supplier_13,17-04-2028,18,No,3.6
+P0279,Muffin,Snacks,98.69,53,Supplier_15,18-04-2028,34,Yes,4.7
+P0280,Tuna,Meat,52.66,265,Supplier_4,19-04-2028,6,Yes,3.9
+P0281,Cheese,Fruits,4.27,265,Supplier_3,20-04-2028,14,No,4.2
+P0282,Muffin,Bakery,47.76,188,Supplier_7,21-04-2028,46,No,4.8
+P0283,Potato,Bakery,44.07,418,Supplier_13,22-04-2028,20,Yes,3.4
+P0284,Frozen Peas,Snacks,33.72,423,Supplier_10,23-04-2028,13,No,2.6
+P0285,Chips,Beverages,8.34,345,Supplier_2,24-04-2028,2,Yes,2.3
+P0286,Popcorn,Snacks,78.79,111,Supplier_11,25-04-2028,25,No,3.1
+P0287,Potato,Vegetables,52.12,340,Supplier_1,31-03-2028,37,No,1.3
+P0288,Tea,Bakery,51.38,467,Supplier_8,01-04-2028,5,Yes,4.2
+P0289,Tuna,Bakery,84.95,381,Supplier_19,02-04-2028,42,No,2.1
+P0290,Pizza,Seafood,41.44,447,Supplier_4,03-04-2028,32,Yes,3.2
+P0291,Cake,Bakery,73.52,269,Supplier_8,04-04-2028,11,Yes,3.4
+P0292,Tea,Dairy,42.48,22,Supplier_7,05-04-2028,46,Yes,4.2
+P0293,Tea,Meat,18.93,64,Supplier_10,06-04-2028,7,No,3
+P0294,Coffee,Fruits,14.29,61,Supplier_14,07-04-2028,47,Yes,3.5
+P0295,Chips,Vegetables,30.45,178,Supplier_6,08-04-2028,13,Yes,4.1
+P0296,Apple,Vegetables,7.27,254,Supplier_15,09-04-2028,15,No,3.6
+P0297,Carrot,Bakery,54.27,223,Supplier_12,10-04-2028,34,Yes,3.6
+P0298,Pork,Fruits,63.63,234,Supplier_11,11-04-2028,40,Yes,4.3
+P0299,Juice,Bakery,41.8,273,Supplier_1,12-04-2028,3,No,4.7
+P0300,Yogurt,Beverages,45.68,380,Supplier_14,13-04-2028,20,Yes,3.2
+P0301,Juice,Snacks,65.37,410,Supplier_4,14-04-2028,37,No,3.8
+P0302,Apple,Dairy,89.37,375,Supplier_9,15-04-2028,11,No,1.8
+P0303,Pizza,Frozen Foods,22.42,277,Supplier_20,16-04-2028,6,No,4.3
+P0304,Carrot,Frozen Foods,45.85,134,Supplier_16,17-04-2028,33,No,1.5
+P0305,Beef,Frozen Foods,47.39,304,Supplier_15,18-04-2028,27,No,1.5
+P0306,Tuna,Bakery,85.83,483,Supplier_14,19-04-2028,6,Yes,3.2
+P0307,Tomato,Meat,57.67,488,Supplier_11,20-04-2028,5,No,2.7
+P0308,Salmon,Meat,91.92,98,Supplier_15,21-04-2028,28,Yes,2.6
+P0309,Muffin,Seafood,5.34,299,Supplier_2,22-04-2028,28,No,4.8
+P0310,Tomato,Seafood,77.79,390,Supplier_20,23-04-2028,47,No,4.5
+P0311,Chips,Meat,58.51,77,Supplier_15,24-04-2028,35,Yes,3.2
+P0312,Cookies,Beverages,52.23,324,Supplier_12,25-04-2028,17,No,2.5
+P0313,Muffin,Beverages,23.81,168,Supplier_5,31-03-2028,7,Yes,1.3
+P0314,Frozen Peas,Frozen Foods,20.61,37,Supplier_15,01-04-2028,28,Yes,4.2
+P0315,Frozen Peas,Bakery,89.03,211,Supplier_5,02-04-2028,47,Yes,4.1
+P0316,Milk,Dairy,77.72,62,Supplier_19,03-04-2028,25,No,2.9
+P0317,Banana,Seafood,83.99,421,Supplier_2,04-04-2028,8,No,2.3
+P0318,Chicken,Seafood,96.62,451,Supplier_17,05-04-2028,26,Yes,1
+P0319,Milk,Fruits,62.07,52,Supplier_15,06-04-2028,46,Yes,2.9
+P0320,Juice,Meat,58.54,233,Supplier_10,07-04-2028,5,No,4.9
+P0321,Bread,Meat,36.96,424,Supplier_19,08-04-2028,38,Yes,1.9
+P0322,Banana,Frozen Foods,51.19,269,Supplier_18,09-04-2028,24,No,4
+P0323,Milk,Beverages,89.03,322,Supplier_19,10-04-2028,21,Yes,3.9
+P0324,Chicken,Meat,6.85,313,Supplier_12,11-04-2028,42,Yes,2.8
+P0325,Pizza,Seafood,56.6,428,Supplier_12,12-04-2028,38,Yes,1.7
+P0326,Apple,Dairy,87.83,299,Supplier_1,13-04-2028,4,Yes,4.4
+P0327,Popcorn,Dairy,74.77,414,Supplier_16,14-04-2028,2,Yes,2.2
+P0328,Cheese,Beverages,13.46,391,Supplier_20,15-04-2028,22,Yes,2.2
+P0329,Cake,Snacks,14.21,376,Supplier_19,16-04-2028,42,No,4
+P0330,Shrimp,Snacks,48.18,91,Supplier_13,17-04-2028,27,Yes,1.3
+P0331,Beef,Snacks,12.38,279,Supplier_3,18-04-2028,38,No,1.1
+P0332,Bread,Fruits,23,282,Supplier_12,19-04-2028,42,No,2.4
+P0333,Tuna,Vegetables,37.28,233,Supplier_20,20-04-2028,18,Yes,4.5
+P0334,Juice,Fruits,18.65,10,Supplier_2,21-04-2028,17,No,3
+P0335,Chicken,Seafood,63.92,143,Supplier_16,22-04-2028,46,No,2.3
+P0336,Bread,Frozen Foods,12.95,225,Supplier_6,23-04-2028,10,Yes,2
+P0337,Chips,Dairy,83.5,331,Supplier_7,24-04-2028,15,No,4.5
+P0338,Bread,Vegetables,78.81,244,Supplier_2,25-04-2028,31,Yes,2.2
+P0339,Salmon,Vegetables,78.14,395,Supplier_13,31-03-2028,14,Yes,4.9
+P0340,Orange,Meat,3.53,467,Supplier_11,01-04-2028,35,Yes,2.1
+P0341,Tea,Vegetables,92.54,129,Supplier_12,02-04-2028,13,No,2.6
+P0342,Yogurt,Snacks,38.69,480,Supplier_8,03-04-2028,10,Yes,2.5
+P0343,Tea,Dairy,57.18,304,Supplier_15,04-04-2028,47,No,1
+P0344,Tomato,Vegetables,11.71,484,Supplier_19,05-04-2028,11,No,2.8
+P0345,Apple,Bakery,68.52,465,Supplier_11,06-04-2028,2,No,1.9
+P0346,Apple,Frozen Foods,30.97,226,Supplier_20,07-04-2028,42,Yes,3.3
+P0347,Cheese,Meat,72.5,268,Supplier_1,08-04-2028,33,No,1.1
+P0348,Pork,Bakery,2,388,Supplier_17,09-04-2028,46,No,2.2
+P0349,Banana,Seafood,70.75,69,Supplier_20,10-04-2028,29,Yes,3
+P0350,Bread,Meat,84.96,444,Supplier_2,11-04-2028,23,Yes,3.3
+P0351,Milk,Meat,86.44,450,Supplier_19,12-04-2028,4,No,2.4
+P0352,Muffin,Vegetables,15.16,312,Supplier_6,13-04-2028,6,No,1.7
+P0353,Cookies,Dairy,18.59,441,Supplier_1,14-04-2028,35,No,2.8
+P0354,Popcorn,Bakery,65.22,226,Supplier_11,15-04-2028,25,Yes,4.9
+P0355,Pizza,Bakery,17.07,264,Supplier_10,16-04-2028,10,No,2.3
+P0356,Apple,Dairy,66.23,24,Supplier_18,17-04-2028,11,Yes,3.9
+P0357,Juice,Bakery,42.17,114,Supplier_16,18-04-2028,35,Yes,3.1
+P0358,Beef,Seafood,89.45,21,Supplier_19,19-04-2028,31,Yes,1.6
+P0359,Frozen Peas,Dairy,9.41,66,Supplier_15,20-04-2028,11,Yes,4.4
+P0360,Banana,Meat,22.79,91,Supplier_13,21-04-2028,17,No,4.8
+P0361,Ice Cream,Frozen Foods,6.39,223,Supplier_20,22-04-2028,13,Yes,3.8
+P0362,Tea,Bakery,38.29,497,Supplier_1,23-04-2028,40,No,3.6
+P0363,Ice Cream,Fruits,67.08,327,Supplier_5,24-04-2028,22,No,2.7
+P0364,Yogurt,Meat,61.63,454,Supplier_7,25-04-2028,36,Yes,3.6
+P0365,Frozen Peas,Beverages,76.66,280,Supplier_4,31-03-2028,13,No,4.2
+P0366,Yogurt,Seafood,81.23,108,Supplier_10,01-04-2028,2,No,2.5
+P0367,Cake,Beverages,69.98,236,Supplier_6,02-04-2028,15,No,4.5
+P0368,Cookies,Beverages,22.2,91,Supplier_4,03-04-2028,39,Yes,3.7
+P0369,Frozen Peas,Fruits,27.02,359,Supplier_14,04-04-2028,25,Yes,2.5
+P0370,Tomato,Seafood,23.12,233,Supplier_12,05-04-2028,37,Yes,3.7
+P0371,Pizza,Beverages,61.43,229,Supplier_4,06-04-2028,3,Yes,3
+P0372,Salmon,Snacks,56.64,161,Supplier_11,07-04-2028,21,No,3.5
+P0373,Pork,Snacks,64.32,161,Supplier_7,08-04-2028,40,No,1.4
+P0374,Juice,Beverages,60.92,245,Supplier_20,09-04-2028,12,No,4.1
+P0375,Bread,Fruits,83.82,222,Supplier_14,10-04-2028,23,No,3.4
+P0376,Cheese,Seafood,92.65,83,Supplier_12,11-04-2028,28,No,2.5
+P0377,Bread,Snacks,10.47,33,Supplier_5,12-04-2028,46,Yes,2.6
+P0378,Popcorn,Fruits,73.85,14,Supplier_5,13-04-2028,41,No,1.1
+P0379,Potato,Fruits,63.04,282,Supplier_13,14-04-2028,6,Yes,3.4
+P0380,Pork,Bakery,58.68,80,Supplier_11,15-04-2028,2,No,3.3
+P0381,Apple,Seafood,49.37,28,Supplier_11,16-04-2028,16,No,2.3
+P0382,Pizza,Beverages,87.89,243,Supplier_1,17-04-2028,17,Yes,3.4
+P0383,Frozen Peas,Bakery,40.75,471,Supplier_20,18-04-2028,14,No,1.9
+P0384,Ice Cream,Dairy,43.52,72,Supplier_1,19-04-2028,4,Yes,3.3
+P0385,Frozen Peas,Frozen Foods,98.75,434,Supplier_1,20-04-2028,31,Yes,1.8
+P0386,Chicken,Beverages,21.22,273,Supplier_2,21-04-2028,39,No,2
+P0387,Pork,Dairy,92.24,370,Supplier_12,22-04-2028,39,No,4.4
+P0388,Potato,Frozen Foods,82.46,122,Supplier_11,23-04-2028,30,Yes,4.9
+P0389,Potato,Seafood,26.68,405,Supplier_9,24-04-2028,45,Yes,2.3
+P0390,Popcorn,Dairy,1.05,461,Supplier_14,25-04-2028,6,Yes,1
+P0391,Yogurt,Vegetables,66.16,344,Supplier_19,31-03-2028,27,Yes,1
+P0392,Beef,Frozen Foods,40.06,178,Supplier_20,01-04-2028,49,Yes,3.6
+P0393,Ice Cream,Frozen Foods,15.62,36,Supplier_5,02-04-2028,10,Yes,1.6
+P0394,Frozen Peas,Meat,55.09,282,Supplier_17,03-04-2028,0,No,2.1
+P0395,Pizza,Beverages,65.21,453,Supplier_16,04-04-2028,14,Yes,2.1
+P0396,Shrimp,Snacks,90.19,149,Supplier_6,05-04-2028,4,No,1.6
+P0397,Beef,Frozen Foods,10.57,48,Supplier_12,06-04-2028,4,Yes,4.9
+P0398,Potato,Fruits,81.15,30,Supplier_14,07-04-2028,50,No,3.6
+P0399,Beef,Beverages,59.56,12,Supplier_2,08-04-2028,16,No,1.9
+P0400,Ice Cream,Snacks,68.76,179,Supplier_7,09-04-2028,43,No,3.3
+P0401,Shrimp,Snacks,58.14,16,Supplier_11,10-04-2028,8,Yes,2.8
+P0402,Bread,Snacks,30.82,181,Supplier_16,11-04-2028,15,No,2.5
+P0403,Chips,Beverages,60.51,435,Supplier_4,12-04-2028,5,Yes,2.7
+P0404,Ice Cream,Snacks,10.06,94,Supplier_6,13-04-2028,34,No,3.1
+P0405,Bread,Bakery,32.9,109,Supplier_10,14-04-2028,2,No,4.6
+P0406,Pork,Fruits,51.05,195,Supplier_17,15-04-2028,14,Yes,3.7
+P0407,Cookies,Vegetables,56.33,218,Supplier_17,16-04-2028,12,Yes,2.9
+P0408,Beef,Fruits,34.63,325,Supplier_12,17-04-2028,18,Yes,1.5
+P0409,Shrimp,Vegetables,85.43,45,Supplier_20,18-04-2028,10,No,4.1
+P0410,Orange,Snacks,31.19,40,Supplier_6,19-04-2028,36,Yes,3.6
+P0411,Shrimp,Frozen Foods,70.74,179,Supplier_7,20-04-2028,18,No,2.4
+P0412,Cake,Seafood,88.68,105,Supplier_13,21-04-2028,16,No,2.4
+P0413,Bread,Beverages,71.85,154,Supplier_14,22-04-2028,9,No,3.7
+P0414,Cake,Beverages,92.56,282,Supplier_19,23-04-2028,38,Yes,3.2
+P0415,Bread,Beverages,1.53,99,Supplier_9,24-04-2028,0,No,2.5
+P0416,Tomato,Beverages,98.02,461,Supplier_8,25-04-2028,7,Yes,4.2
+P0417,Salmon,Frozen Foods,2.32,347,Supplier_14,31-03-2028,7,Yes,3.5
+P0418,Cookies,Frozen Foods,7.19,246,Supplier_18,01-04-2028,11,No,4.9
+P0419,Shrimp,Frozen Foods,8.38,398,Supplier_8,02-04-2028,41,No,4.7
+P0420,Tea,Bakery,51.67,314,Supplier_14,03-04-2028,49,Yes,1.8
+P0421,Apple,Seafood,10.94,250,Supplier_17,04-04-2028,20,Yes,4
+P0422,Juice,Dairy,41.95,65,Supplier_15,05-04-2028,29,No,1.3
+P0423,Pork,Bakery,89.25,463,Supplier_20,06-04-2028,27,Yes,1.1
+P0424,Salmon,Dairy,97.29,18,Supplier_6,07-04-2028,45,Yes,2.7
+P0425,Orange,Meat,87.84,351,Supplier_6,08-04-2028,3,Yes,1.3
+P0426,Banana,Frozen Foods,81.45,133,Supplier_7,09-04-2028,7,No,4.7
+P0427,Carrot,Beverages,83.52,86,Supplier_20,10-04-2028,2,Yes,1.9
+P0428,Shrimp,Fruits,77.18,318,Supplier_15,11-04-2028,35,No,4.1
+P0429,Tuna,Frozen Foods,72.75,181,Supplier_1,12-04-2028,7,No,1.8
+P0430,Yogurt,Seafood,42.56,266,Supplier_11,13-04-2028,46,Yes,3.4
+P0431,Muffin,Bakery,28.53,154,Supplier_2,14-04-2028,14,No,2.7
+P0432,Ice Cream,Dairy,2.64,245,Supplier_6,15-04-2028,39,Yes,2.9
+P0433,Muffin,Snacks,23.09,307,Supplier_10,16-04-2028,4,No,1.8
+P0434,Chips,Snacks,32.34,139,Supplier_13,17-04-2028,27,No,3.9
+P0435,Beef,Frozen Foods,95.93,118,Supplier_6,18-04-2028,5,No,2.8
+P0436,Apple,Vegetables,78.06,351,Supplier_19,19-04-2028,19,Yes,3
+P0437,Banana,Dairy,27.29,61,Supplier_9,20-04-2028,9,Yes,5
+P0438,Tomato,Fruits,61.81,142,Supplier_4,21-04-2028,40,No,3.2
+P0439,Pork,Dairy,42.76,494,Supplier_10,22-04-2028,31,No,1.8
+P0440,Cheese,Frozen Foods,86.62,353,Supplier_12,23-04-2028,14,No,3.8
+P0441,Banana,Meat,60.25,436,Supplier_11,24-04-2028,42,No,2.9
+P0442,Beef,Meat,96.93,222,Supplier_5,25-04-2028,12,Yes,3.1
+P0443,Coffee,Frozen Foods,38.83,48,Supplier_6,31-03-2028,27,No,3.8
+P0444,Apple,Beverages,13.04,65,Supplier_17,01-04-2028,4,No,4.8
+P0445,Salmon,Frozen Foods,39.95,419,Supplier_5,02-04-2028,41,Yes,3.6
+P0446,Coffee,Bakery,61.88,180,Supplier_5,03-04-2028,4,No,3.7
+P0447,Tuna,Vegetables,75.13,152,Supplier_15,04-04-2028,45,Yes,1.8
+P0448,Milk,Seafood,71.83,198,Supplier_18,05-04-2028,16,Yes,2.8
+P0449,Tomato,Vegetables,77.11,465,Supplier_5,06-04-2028,0,Yes,1.5
+P0450,Chips,Seafood,66.87,236,Supplier_16,07-04-2028,38,No,3.3
+P0451,Ice Cream,Seafood,25.74,238,Supplier_18,08-04-2028,27,No,3.1
+P0452,Potato,Bakery,15.16,284,Supplier_5,09-04-2028,14,No,4.9
+P0453,Muffin,Snacks,23.01,458,Supplier_3,10-04-2028,22,Yes,2.2
+P0454,Yogurt,Snacks,30.21,172,Supplier_15,11-04-2028,2,Yes,1.4
+P0455,Chips,Vegetables,7.37,432,Supplier_9,12-04-2028,43,Yes,1.3
+P0456,Cake,Frozen Foods,37.82,415,Supplier_6,13-04-2028,7,Yes,1.3
+P0457,Apple,Dairy,95.05,300,Supplier_4,14-04-2028,31,No,1.2
+P0458,Cake,Snacks,21.79,318,Supplier_7,15-04-2028,49,No,1.3
+P0459,Salmon,Frozen Foods,64.9,190,Supplier_3,16-04-2028,43,No,3.2
+P0460,Chicken,Seafood,4.68,101,Supplier_11,17-04-2028,21,Yes,2.3
+P0461,Tea,Meat,25.2,426,Supplier_13,18-04-2028,33,Yes,3.4
+P0462,Beef,Snacks,98.88,311,Supplier_6,19-04-2028,6,No,2.9
+P0463,Ice Cream,Meat,95.74,56,Supplier_3,20-04-2028,39,No,2.3
+P0464,Orange,Seafood,36.42,24,Supplier_13,21-04-2028,49,Yes,4.2
+P0465,Coffee,Fruits,51.68,306,Supplier_2,22-04-2028,12,Yes,2.3
+P0466,Coffee,Vegetables,83.94,337,Supplier_3,23-04-2028,18,No,4.6
+P0467,Popcorn,Bakery,72.04,46,Supplier_19,24-04-2028,3,Yes,3.6
+P0468,Chicken,Dairy,75.22,95,Supplier_1,25-04-2028,2,Yes,2.9
+P0469,Cookies,Fruits,33.8,289,Supplier_5,31-03-2028,7,Yes,3.8
+P0470,Pizza,Fruits,55.02,297,Supplier_16,01-04-2028,20,Yes,1.3
+P0471,Tuna,Vegetables,21.18,361,Supplier_6,02-04-2028,48,Yes,1.8
+P0472,Yogurt,Fruits,70.51,308,Supplier_14,03-04-2028,8,Yes,1.6
+P0473,Chips,Frozen Foods,97.08,109,Supplier_19,04-04-2028,40,Yes,3
+P0474,Muffin,Bakery,2.5,332,Supplier_7,05-04-2028,32,Yes,3.9
+P0475,Tomato,Snacks,50.8,62,Supplier_17,06-04-2028,17,No,2
+P0476,Coffee,Vegetables,52.93,228,Supplier_19,07-04-2028,35,Yes,1.3
+P0477,Shrimp,Seafood,79.37,31,Supplier_19,08-04-2028,38,No,3.1
+P0478,Muffin,Vegetables,69.62,107,Supplier_17,09-04-2028,43,No,3.1
+P0479,Frozen Peas,Beverages,77.36,181,Supplier_17,10-04-2028,44,No,2.7
+P0480,Pizza,Vegetables,87.8,354,Supplier_16,11-04-2028,31,No,2.9
+P0481,Cookies,Frozen Foods,1.47,413,Supplier_10,12-04-2028,6,No,1.9
+P0482,Cheese,Seafood,41.98,328,Supplier_11,13-04-2028,29,No,2.3
+P0483,Tuna,Meat,74.74,356,Supplier_20,14-04-2028,41,Yes,2.8
+P0484,Tuna,Meat,85.67,124,Supplier_14,15-04-2028,21,No,2.4
+P0485,Cheese,Beverages,44.05,245,Supplier_4,16-04-2028,39,Yes,3.5
+P0486,Chicken,Bakery,11.1,281,Supplier_15,17-04-2028,46,No,3
+P0487,Cheese,Seafood,18.42,216,Supplier_4,18-04-2028,36,No,4.4
+P0488,Orange,Frozen Foods,78.51,276,Supplier_17,19-04-2028,47,No,3.2
+P0489,Chips,Bakery,11.69,469,Supplier_10,20-04-2028,32,No,3.4
+P0490,Popcorn,Snacks,10.07,107,Supplier_6,21-04-2028,6,No,2.8
+P0491,Chips,Meat,96.49,185,Supplier_10,22-04-2028,36,Yes,2.8
+P0492,Milk,Seafood,10.66,360,Supplier_9,23-04-2028,27,Yes,4.4
+P0493,Tea,Meat,48.31,448,Supplier_17,24-04-2028,7,Yes,3
+P0494,Muffin,Meat,40.41,246,Supplier_5,25-04-2028,40,Yes,4.9
+P0495,Pork,Fruits,77.45,298,Supplier_7,31-03-2028,16,Yes,3.4
+P0496,Chicken,Beverages,60.45,145,Supplier_9,01-04-2028,19,Yes,2.3
+P0497,Yogurt,Frozen Foods,41.61,109,Supplier_9,02-04-2028,24,No,4.5
+P0498,Cookies,Bakery,69.36,473,Supplier_9,03-04-2028,36,No,4.7
+P0499,Beef,Fruits,85.08,88,Supplier_11,04-04-2028,18,No,2.9
+P0500,Tomato,Vegetables,50.74,192,Supplier_11,05-04-2028,17,Yes,2.2
